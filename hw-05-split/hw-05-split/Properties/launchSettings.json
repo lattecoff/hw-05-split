@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "hw-05-split": {
+      "commandName": "Project",
+      "commandLineArgs": "\"hello\" 5 10 3.14 77 2.48 \"word\""
+    }
+  }
+}
